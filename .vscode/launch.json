@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "Run Tracking Script",
+      "type": "debuggy",
+      "request": "launch",
+      "program": "${workspaceFolder}/tracking.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
+ 
