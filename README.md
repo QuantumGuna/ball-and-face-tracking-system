@@ -76,9 +76,9 @@ This will detect and follow human faces using Haar Cascade.
 - Use the HSV sliders in ball_track.py to fine-tune detection based on lighting.
 
 ## 👨‍💻 Author
-Gunasekhar Bathula
-Final Year B.Tech Student
+**Guna Sekhar Bathula**
+*B.Tech Graduate*
 Passionate about Embedded Systems and AI
 
 ## 📝 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
